@@ -1,0 +1,9 @@
+
+    path: /kaggle/working/dataset
+    train: images/train
+    val: images/val
+    test: images/test
+
+    nc: 3
+    names: ['Class_0','Class_1','Class_2']
+    
